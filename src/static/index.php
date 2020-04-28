@@ -13,7 +13,7 @@
     <link rel="apple-touch-icon" href="http://placehold.it/200x200">
 
     <!-- CSS includes -->
-    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 
     <!-- Meta information -->
     <meta name="author" content="">
