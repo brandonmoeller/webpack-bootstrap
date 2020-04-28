@@ -12,7 +12,7 @@ Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.
 5: 
 6: // Import main Bootstrap styles
 7: @import "~bootstrap/scss/bootstrap";
-8: //@import "material-icons";
+8: @import "material-icons";
 
 Backtrace:
 D:\web\webpack-bootstrap\src\scss\app.scss:7
@@ -52,4 +52,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver 2020/ruby/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A        Load paths:\A          C:/Program Files/Adobe/Adobe Dreamweaver 2020/Configuration/SassFrameworks/bourbon\A          C:/Program Files/Adobe/Adobe Dreamweaver 2020/Configuration/SassFrameworks/neat\A          C:/Program Files/Adobe/Adobe Dreamweaver 2020/Configuration/SassFrameworks/base\A         on line 7 of D:\web\webpack-bootstrap\src\scss\app.scss\A \A 2: // $bootstrap-variable: value;\A 3: \A 4: $body-color: #444;\A 5: \A 6: // Import main Bootstrap styles\A 7: @import \"~bootstrap/scss/bootstrap\";\A 8: //@import \"material-icons\";"; }
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A        Load paths:\A          C:/Program Files/Adobe/Adobe Dreamweaver 2020/Configuration/SassFrameworks/bourbon\A          C:/Program Files/Adobe/Adobe Dreamweaver 2020/Configuration/SassFrameworks/neat\A          C:/Program Files/Adobe/Adobe Dreamweaver 2020/Configuration/SassFrameworks/base\A         on line 7 of D:\web\webpack-bootstrap\src\scss\app.scss\A \A 2: // $bootstrap-variable: value;\A 3: \A 4: $body-color: #444;\A 5: \A 6: // Import main Bootstrap styles\A 7: @import \"~bootstrap/scss/bootstrap\";\A 8: @import \"material-icons\";"; }
