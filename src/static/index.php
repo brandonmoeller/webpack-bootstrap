@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Bootstrap 4 Template - Hello, World</title>
+    <title>Bootstrap 4 Template - Hello, World!</title>
 
     <!-- Website icon -->
     <link rel="icon" type="image/png" href="http://placehold.it/20x20">
